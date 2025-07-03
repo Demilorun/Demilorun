@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Femi-Adeboye Demilorun! 👋
 
-<!--
-**Demilorun/Demilorun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🌐 Web Developer | Tech Enthusiast**
 
-Here are some ideas to get you started:
+Hey! Welcome to my GitHub. I enjoy creating intuitive and seamless web applications. I thrive on solving complex problems with code and am always enthusiastic about expanding my full-stack development skills by exploring new technologies.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🧑‍💻 Studying Computer Science at McPherson University 
+- ⚡ Currently working on **cutting-edge web applications**
+- 🌱 I’m currently learning **PHP**
+
+---
+
+Feel free to connect or reach out if you want to collaborate on something cool!
