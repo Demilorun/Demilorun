@@ -87,7 +87,7 @@ I enjoy **turning complex problems into elegant solutions** and I’m constantly
 
 ## 🌟 Let’s Connect!  
 📩 **Email:** enochadeboye29@gmail.com  
-💼 **LinkedIn:** [](#)  
+💼 **LinkedIn:** [www.linkedin.com/in/demilorun-femi-adeboye-2880b0272](www.linkedin.com/in/demilorun-femi-adeboye-2880b0272)  
 🐙 **GitHub:** [https://github.com/Demilorun](https://github.com/Demilorun)  
 
 ---
